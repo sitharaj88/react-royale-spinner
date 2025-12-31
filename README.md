@@ -3,6 +3,8 @@
 **The Ultimate Wheel of Fortune Component for React.**  
 Create engaging, premium-quality "Spin to Win" experiences with modern physics animations, procedural audio, and endless customization.
 
+![React Royale Spinner Thumbnail](./thumbnail.png)
+
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![React](https://img.shields.io/badge/react-18%2B-61DAFB.svg)
 ![TypeScript](https://img.shields.io/badge/typescript-ready-blue.svg)
